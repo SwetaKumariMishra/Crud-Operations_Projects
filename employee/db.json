@@ -1,0 +1,18 @@
+{
+  "employee": [
+    {
+      "id": "2661",
+      "name": "Sweta Kumari Mishra",
+      "email": "mishrasweta1001@gmail.com",
+      "phone": "7576929445",
+      "active": true
+    },
+    {
+      "id": "3a0d",
+      "name": "Simi",
+      "email": "simi@gmail.com",
+      "phone": "4384739020",
+      "active": true
+    }
+  ]
+}
